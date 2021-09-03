@@ -1,2 +1,4 @@
 # MyWebProject
 ## DevOps
+
+`git init`
